@@ -1,0 +1,89 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.quadrato{
+    background: black;
+    width: 1070px;
+    height: 850px;
+    position: absolute;
+    top: 4%;
+    left: 20%;
+    border-radius: 10px; 
+    opacity: 60%; 
+    
+}
+
+
+#Lim{
+    position: absolute;
+    top: 12%;
+    left: 44%;
+    width: 200px;
+    height: auto;
+}
+#titolo1{
+    position: absolute;
+    color:#00ff00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 21%;
+    left: 38%;
+}
+.primariga{
+    position: absolute;
+    background: #00ff00;
+    width: auto;
+    height: 40px;
+    top: 27%;
+    left: 25%;
+    right: 25%;
+    border-radius: 2%;
+}
+.tasti{
+    position: absolute;
+    top: 28%;
+    left: 42%; 
+}
+.Monopattino{
+    position:absolute;
+    color: White;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 32%;
+    left: 25%;
+    
+  }
+.check, .testo, .testo{
+    display: inline-block;
+}
+.carica{
+    background-color: orange;
+    height: 40px;
+    width: 400px;
+    border-radius: 3px;
+    
+}
+.carica2{
+    background-color: green;
+    height: 40px;
+    width: 700px;
+    border-radius: 3px;
+    
+}
+.carica3{
+    background-color: red;
+    height: 40px;
+    width: 200px;
+    border-radius: 3px;
+}
+
+ 
+
+
+
+
+
+
+      
+      
+    
